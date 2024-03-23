@@ -14,6 +14,7 @@ header {
 header img{
    width: 600px;
    float: left;
+    
 }
 
 header h4{
@@ -79,7 +80,8 @@ main img{
     height: 200px;
     margin:20px 20px 20px 20px;
     text-align: center;
-    justify-content: space-around;}
+    justify-content: space-around;
+    object-fit:cover}
 
 .lang {
     background-color:#A7B995;
