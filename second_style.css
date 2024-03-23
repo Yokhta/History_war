@@ -132,10 +132,11 @@ nav{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width:1450px;
+    width:1500px;
     height: 200px;
     margin:20px 20px 20px 20px;
-    text-align: center;}
+    text-align: center;
+    object-fit:cover}
 
 footer {
     font-size:15px;
