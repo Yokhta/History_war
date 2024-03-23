@@ -80,8 +80,7 @@ main img{
     height: 200px;
     margin:20px 20px 20px 20px;
     text-align: center;
-    justify-content: space-around;
-    object-fit:cover}
+    justify-content: space-around;}
 
 .lang {
     background-color:#A7B995;
